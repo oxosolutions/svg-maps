@@ -1,0 +1,21 @@
+{
+  "name": "svg-maps",
+  "version": "1.0.0",
+  "homepage": "https://github.com/sherwaniusman/angular-accordion",
+  "authors": [
+    "Rahul Sharma <rahulsharma841990@gmail.com"
+  ],
+  "description": "A simple angular directive to create india svg map.",
+  "main": [
+    "css/svg-maps.css",
+    "js/svg-maps.js"
+  ],
+  "keywords": [
+    "angular",
+    "svg-maps"
+  ],
+  "dependencies": {
+    "angular": ">=1.3.0"
+  },
+  "license": "MIT"
+}
